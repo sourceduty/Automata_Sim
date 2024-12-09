@@ -8,6 +8,11 @@
 Once an automaton is defined, Automata Sim enables users to simulate its behavior by processing input strings and tracing the state transitions. It validates inputs against the defined alphabet, illustrates state paths for DFAs and NFAs, and determines whether a string is accepted or rejected based on the final state. Detailed feedback is provided to debug potential issues or refine the automaton's design. This tool is an excellent resource for students, educators, or professionals seeking to explore computational models interactively and deepen their understanding of formal languages and automata.
 
 #
+### Computer Machines
+
+The term "machine" is rarely used to describe computer hardware in everyday language, as the word traditionally evokes images of purely mechanical devices like gears, engines, and tools. While technically correct—since a computer is a device performing tasks via energy conversion—the association of "machine" with physical, mechanical systems makes it an uncommon descriptor for computers. However, in specialized contexts like computing, the term gains prominence, such as with "virtual machine" (VM). A virtual machine refers to software that emulates a physical computer, enabling multiple "machines" to operate independently on a single physical device. This terminology highlights the abstraction of computational resources as "machines," even though the concept is far removed from traditional mechanics. Overall, "computer" and "device" dominate in popularity for describing hardware in common usage, with "machine" being reserved for niche or technical discussions.
+
+#
 ### Automata Science
 
 ![Computer Science](https://github.com/user-attachments/assets/0750dd1e-8764-4294-8e54-873b70332f42)

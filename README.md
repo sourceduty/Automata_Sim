@@ -29,6 +29,8 @@ The history of automata dates back thousands of years, with its roots in ancient
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Abstract Machine](https://github.com/sourceduty/Abstract_Machine)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

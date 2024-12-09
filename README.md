@@ -10,7 +10,7 @@ Once an automaton is defined, Automata Sim enables users to simulate its behavio
 #
 ### Automata Science
 
-![Math](https://github.com/user-attachments/assets/4baa6693-ac09-457a-ba26-dbc18c4a0723)
+![Computer Science](https://github.com/user-attachments/assets/0750dd1e-8764-4294-8e54-873b70332f42)
 
 Automata, in the field of computer science and mathematics, refers to abstract machines or models used to represent and solve problems involving computation or sequential logic. An automaton (the singular form of automata) operates on an input string of symbols and changes states according to a set of defined rules or transitions. Automata theory, the study of these machines, provides a foundation for understanding computational systems, including computer programs, hardware circuits, and formal languages. At its core, automata theory seeks to answer questions about what can be computed and how efficiently it can be done. The simplest types of automata, such as finite automata, are used to model systems with a limited set of states and transitions, making them ideal for tasks like lexical analysis in programming or protocol verification.
 

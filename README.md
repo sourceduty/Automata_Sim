@@ -19,7 +19,7 @@ Automata are categorized based on their capabilities and complexity. For instanc
 #
 ### Automata Machines
 
-![Machine](https://github.com/user-attachments/assets/cdd4c5d4-75d0-4bda-af15-80fee2cb0439)
+![Machine](https://github.com/user-attachments/assets/0b0688b8-cbca-457c-bcbd-2a7bc7a6666c)
 
 Automata play a foundational role in modern computer science by providing a theoretical framework for understanding computation and designing systems. Finite automata, for instance, are widely used in the development of compilers and text processing tools like regular expression engines. Their deterministic nature makes them ideal for parsing and recognizing patterns in data. Automata also underpin the design of hardware circuits, where states and transitions model logical operations. In more advanced areas, Turing machines, an extension of automata theory, serve as the mathematical basis for understanding what problems can be solved algorithmically, helping computer scientists distinguish between solvable and unsolvable problems. Furthermore, automata theory is instrumental in modeling and verifying software systems, ensuring that applications behave as intended under various scenarios.
 

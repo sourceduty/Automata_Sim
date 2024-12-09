@@ -1,4 +1,4 @@
-![Computer Science](https://github.com/user-attachments/assets/88fb76a7-fb32-4b70-96cd-af2986dcb0b6)
+![Automata](https://github.com/user-attachments/assets/1d7278f3-2200-4b9a-9e42-dd565c6e631d)
 
 > Simulate finite state machines or automata.
 #
